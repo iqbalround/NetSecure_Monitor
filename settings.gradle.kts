@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyBackUp_Button_Back"
+rootProject.name = "NetSecure Monitor"
 include(":app")
